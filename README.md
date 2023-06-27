@@ -6,16 +6,15 @@ Welcome to the Algorithms Repository! This repository contains a collection of h
 
 The following table provides an overview of the algorithms available in the repository and the programming languages they are implemented in:
 
-| Algorithm                          | Python | C++ |
-|------------------------------------|--------|-----|
-| K-nearest Neighbors (KNN)          |   ✅   |  ✅ |
-| Principal Component Analysis (PCA) |        |  ✅ |
-| Gradient Descent                   |   ✅   |  ✅ |
-
+| Algorithm                                       | Python | C++ |
+|-------------------------------------------------|--------|-----|
+| [K-nearest Neighbors (KNN)](Gradient%20Descent) |   ✅   |     |
+| [Principal Component Analysis (PCA)](KNN)       |   ✅   |     |
+| [Gradient Descent](PCA)                         |   ✅   |  ✅ |
 
 **Note**: The checkboxes indicate whether the algorithm is implemented in a particular programming language.
 
-
+**Stay tuned for other algorithms**!
 
 ## Contributing
 
