@@ -6,22 +6,26 @@ Welcome to the Algorithms Repository! This repository contains a collection of h
 
 The following table provides an overview of the algorithms available in the repository and the programming languages they are implemented in:
 
-| Algorithm              | Python | C++ | Java | JavaScript | Ruby |
-|------------------------|--------|-----|------|------------|------|
-| Binary Search          |   ✅   |  ✅  |   ✅   |     ✅       |  ✅  |
-| Bubble Sort            |   ✅   |  ✅  |   ✅   |     ✅       |  ✅  |
-| Quick Sort             |   ✅   |  ✅  |   ✅   |     ✅       |  ✅  |
-| Depth-First Search     |   ✅   |  ✅  |   ✅   |     ✅       |  ✅  |
-| Breadth-First Search   |   ✅   |  ✅  |   ✅   |     ✅       |  ✅  |
-| Dijkstra's Algorithm   |   ✅   |  ✅  |   ✅   |     ✅       |  ✅  |
-| Dynamic Programming    |   ✅   |  ✅  |   ✅   |     ✅       |  ✅  |
-| Knapsack Problem       |   ✅   |  ✅  |   ✅   |     ✅       |  ✅  |
-| ...                    |   ...  | ... |  ... |    ...      | ...  |
+| Algorithm                          | Python | C++ |
+|------------------------------------|--------|-----|
+| K-nearest Neighbors (KNN)          |   ✅   |  ✅ |
+| Principal Component Analysis (PCA) |        |  ✅ |
+| Gradient Descent                   |   ✅   |  ✅ |
 
-Note: The checkboxes indicate whether the algorithm is implemented in a particular programming language.
+
+**Note**: The checkboxes indicate whether the algorithm is implemented in a particular programming language.
 
 
 
 ## Contributing
 
-Contributions to the Algorithms Repository are highly encouraged. If you have an algorithm implementation that you would like to contribute, or if you have identified an improvement or bug fix for an existing algorithm.
+Contributions to the Algorithms Repository are welcome! If you would like to contribute an algorithm implementation or make improvements to the existing code, please follow these steps:
+
+1. Fork this repository and create a new branch for your contribution.
+2. Implement or modify the algorithm in your preferred programming language.
+3. Ensure that your code follows the established coding style and guidelines.
+4. Add documentation comments to explain the algorithm's purpose, inputs, outputs, and any other relevant information.
+5. Test your implementation with example inputs and, if applicable, include test cases.
+6. Submit a pull request to the main repository with a clear description of your contribution.
+
+Your contribution will be reviewed and merged if it meets the repository's quality standards and guidelines.
